@@ -7,6 +7,7 @@ class App extends React.Component {
   state = {
     count: 0
   }
+
   render() {
     return (
       <div>
